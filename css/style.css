@@ -64,7 +64,8 @@ header nav i{
 /* Showcase section */
 #showcase{
   min-height:450px;
-  background:url('../images/showcase.jpg') no-repeat -200px -480px;
+  background:url('../images/showcase.jpg') no-repeat 0px -250px;
+  background-size: 1440px 960px;
   text-align:center;
   color:#ffffff;
   position: relative;
@@ -134,6 +135,12 @@ footer{
 
   header{
     padding-bottom:20px;
+  }
+
+  #showcase{
+    min-height:400px;
+    background:url('../images/showcase.jpg') no-repeat -100px -60px;
+    background-size: 860px 640px;
   }
 
   #showcase h1{
