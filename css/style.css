@@ -55,7 +55,7 @@ header nav a i {
   float: none;
   text-align: center;
   color: #cccccc;
-  transition: .2s;
+  transition: .15s;
 }
 
 header nav a:hover i {
@@ -109,13 +109,13 @@ header nav a:hover i {
 
 #links a i {
   color: #35424a;
-  transition: .2s;
+  transition: .15s;
 }
 
 #links a:hover i {
-  transform: translate3d(0px, -5px, 0);
-  -moz-transform: translate3d(0px, -5px, 0);
-  -webkit-transform: translate3d(0px, -5px, 0);
+  transform: translate3d(0px, -10px, 0);
+  -moz-transform: translate3d(0px, -10px, 0);
+  -webkit-transform: translate3d(0px, -10px, 0);
 }
 
 /* Footer section */
