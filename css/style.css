@@ -67,7 +67,7 @@ header nav a:hover i {
 /* Showcase section */
 #showcase {
   min-height: 450px;
-  background: url('../images/showcase.jpg') no-repeat 0px -250px;
+  background: url('../images/showcase.jpg') 0px -250px;
   background-size: 1440px 960px;
   text-align: center;
   color: #ffffff;
